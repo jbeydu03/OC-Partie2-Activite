@@ -1,0 +1,1 @@
+Creation d'un page d'accueil pour un site d'hotel.
